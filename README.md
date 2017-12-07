@@ -1,7 +1,7 @@
 # Case Study 12 - Simulation Study of a Branching Process
 
-___DataScience@SMU
-Data Scientist: Kyle Killion and Joseph Stoffa___
+___DataScience@SMU___<br>
+___Data Scientist: Kyle Killion and Joseph Stoffa___
 
 # Abstract:
 This project aims to explore The Monte Carlo method, simulation, and random number generation with built-in probability distribution generators. With these tools, we can then begin to generate inference off the open-ended theories that might not be able to go "coast-to-coast" in solving.
